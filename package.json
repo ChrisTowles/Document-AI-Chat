@@ -1,0 +1,12 @@
+{
+  "name": "document-ai-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm  --filter 'web-app' run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
